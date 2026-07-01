@@ -1,0 +1,13 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Docker volumes / temp
+*.log
+
+# IDE
+.vscode/
+
+# SQL Server data (just in case)
+*.mdf
+*.ldf

@@ -1,0 +1,4 @@
+USE master
+
+CREATE DATABASE SteamDatabaseDEV
+CREATE DATABASE SteamDatabasePROD
